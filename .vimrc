@@ -7,6 +7,7 @@ Plugin 'gmarik/Vundle.vim' "required
 Plugin 'ctrlp.vim'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'tpope/vim-fugitive'
+Plugin 'fatih/vim-go'
 
 " plugin on GitHub repo
 Plugin 'scrooloose/nerdtree'
